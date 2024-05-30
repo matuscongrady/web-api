@@ -1,4 +1,6 @@
 
+
+
 # Lambda API with DynamoDb
 
 > [!TIP]
